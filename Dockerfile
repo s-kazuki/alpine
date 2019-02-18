@@ -1,4 +1,4 @@
-FROM alpine:adge
+FROM alpine:edge
 
 LABEL maintainer="S-Kazuki<contact@revoneo.com>"
 
