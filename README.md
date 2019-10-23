@@ -1,2 +1,2 @@
 # alpine
-Lightweight docker image on alpine# alpine-awscli
+Lightweight docker image on alpine
